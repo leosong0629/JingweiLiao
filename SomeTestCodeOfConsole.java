@@ -12,7 +12,7 @@ import java.time.temporal.TemporalField;
 import java.time.temporal.WeekFields;
 import java.util.Locale;
 
-public class test {
+public class SomeTestCodeOfConsole {
 	public static void main(String[]args) {
 		LocalTime lt=LocalTime.now();
 		int hour=lt.getHour();
